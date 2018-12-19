@@ -1,8 +1,8 @@
 {
   "IsEncrypted": false,
   "Values": {
-      "AzureSignalRConnectionString": "Endpoint=https://hol-signalr.service.signalr.net;AccessKey=003RIjEmvk3/NJma0YT0tqYdfJflGKU5ERFFPiDihac=;Version=1.0",
-      "CosmosDBConnectionString": "AccountEndpoint=https://db-signalr.documents.azure.com:443/;AccountKey=sr5avOVCOhO7rK0dBYViGKccbYF8puEQzOsFciMcKoIPDg96CUhcMNowMxB1cg9Yoc5OGSqHwzj9xaKuRVaRRw==;",
+      "AzureSignalRConnectionString": "",
+      "CosmosDBConnectionString": "",
       "WEBSITE_NODE_DEFAULT_VERSION": "10.6.0",
       "FUNCTIONS_WORKER_RUNTIME": "node"
   },
