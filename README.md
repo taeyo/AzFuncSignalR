@@ -1,4 +1,4 @@
-# AzFuncSignalR
+# Chat-Realtime
 
 this repo contains source files for HOL "Build a real-time serverless chat app with Azure Functions".
   
